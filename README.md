@@ -6,7 +6,7 @@ Tools required for a hardware/physical hacking setup
 
 ## 1. ****700~5800 MHz Antenna****
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled.png)
+![Untitled](res/Untitled.png)
 
 Designed to cover all cellular, ISM and Wi-Fi working frequencies. 698-960 MHz, 1575.42 MHz, 1710-2700 MHz, 5150-5850 MHz
 
@@ -16,7 +16,7 @@ Designed to cover all cellular, ISM and Wi-Fi working frequencies. 698-960 MHz, 
 
 ## 2. ****20-6000 MHz Near Field Antenna****
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%201.png)
+![Untitled](res/Untitled%201.png)
 
 This 25mm diameter, H-Loop antenna is very compact and RF sensitive, capable of operating within 20-6000 MHz.
 
@@ -26,7 +26,7 @@ This 25mm diameter, H-Loop antenna is very compact and RF sensitive, capable of 
 
 ## 3. ****Flipper Zero****
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%202.png)
+![Untitled](res/Untitled%202.png)
 
 Features: Sub 1-ghz transceiver, 125kHz RFID, 13.56 MHz NFC, Bluetooth, Infrared Transceiver, 1-Wire iButton, expansion headers.
 
@@ -36,9 +36,9 @@ Features: Sub 1-ghz transceiver, 125kHz RFID, 13.56 MHz NFC, Bluetooth, Infrared
 
 ## 4. ****bladeRF 2.0 xA4 Kit****
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%203.png)
+![Untitled](res/Untitled%203.png)
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%204.png)
+![Untitled](res/Untitled%204.png)
 
 Kit/Bundle Includes:
 
@@ -61,7 +61,7 @@ Kit/Bundle Includes:
 
 ## 5. ****Ubertooth One****
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%205.png)
+![Untitled](res/Untitled%205.png)
 
 ****FEATURES****
 
@@ -88,7 +88,7 @@ The Ubertooth One is an open source 2.4 GHz wireless development platform suitab
 
 ## 6. ****Proxmark3 RDV4****
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%206.png)
+![Untitled](res/Untitled%206.png)
 
 ****FEATURES****
 
@@ -110,7 +110,7 @@ Compared with other on the market available Proxmark-like and RF cloning devices
 
 [Proxmark3 RDV4 Kit - Hacker Warehouse](https://hackerwarehouse.com/product/proxmark3-rdv4-kit/)
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%207.png)
+![Untitled](res/Untitled%207.png)
 
 This Bluetooth and battery module (code name Blue Shark) is an addon to the Proxmark3 RDV4. By adding this module to a pm3rdv4, you have standalone capabilities as the 400 mAh battery will last several operational hours while also adding the ability to interact with the device though bluetooth wireless.
 
@@ -138,7 +138,7 @@ Specs
 
 [Bluetooth + Battery Module for Proxmark3 RDV4 - Hacker Warehouse](https://hackerwarehouse.com/product/proxmark3-rdv4-bluetooth-battery-module/)
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%208.png)
+![Untitled](res/Untitled%208.png)
 
 The Proxmark3 RDV4 LF Antenna Set comes with a LF medium antenna and LF long range antenna. The Proxmark3 RDV4 has a modular antenna system, allowing for antennas to be swapped depending on your engagement and distance requirements.
 
@@ -159,7 +159,7 @@ Switch options:
 
 [Proxmark3 RDV4 LF Antenna Set - Hacker Warehouse](https://hackerwarehouse.com/product/proxmark3-rdv4-lf-antenna-set/)
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%209.png)
+![Untitled](res/Untitled%209.png)
 
 The Proxmark3 RDV4 HF Antenna Set comes with a HF medium antenna and HF long range antenna. The Proxmark3 RDV4 has a modular antenna system, allowing for antennas to be swapped depending on your engagement and distance requirements.
 
@@ -185,7 +185,7 @@ T5557 cards are read/writable and are compatible with EM4100, HID and indala. Th
 
 ## 1. ****KeyGrabber****
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%2011.png)
+![Untitled](res/Untitled%2011.png)
 
 These are physical hardware keyloggers that are completely transparent from computer operation, and no software or drivers are required. International keyboard layouts are also supported.
 
@@ -207,7 +207,7 @@ See the comparison chart as some versions have a clock/battery for times-stampin
 
 ## 2. ****USB Ninja Cable****
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%2012.png)
+![Untitled](res/Untitled%2012.png)
 
 USB Ninja is an information security and penetration testing tool that looks and functions just like a regular USB cable (both power and data) until a wireless remote control triggers it to deliver your choice of attack payload to the host machine. In essence, USB Ninja is the next step in the evolution of BadUSB, embedding the attack in the USB cable itself.
 
@@ -221,7 +221,7 @@ Includes: 1 cable type of choice and 1 trigger/programming ring.
 
 ****USB Ninja Bluetooth Remote****
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%2013.png)
+![Untitled](res/Untitled%2013.png)
 
 Wireless trigger device for the USB Ninja. Can trigger two different payloads via toggle buttons.
 
@@ -233,9 +233,9 @@ Accepts RP-SMA antennas if you want greater distances for remote payload trigger
 
 ## 3. ****Rainbow Tables HDD****
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%2014.png)
+![Untitled](res/Untitled%2014.png)
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%2015.png)
+![Untitled](res/Untitled%2015.png)
 
 ****DESCRIPTION****
 
@@ -257,7 +257,7 @@ Contains:
 
 ## 1. ****Chipwhisperer-Lite Bundle****
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%2016.png)
+![Untitled](res/Untitled%2016.png)
 
 ****DESCRIPTION****
 
@@ -278,7 +278,7 @@ Breaker Addon + NOTDuino Target Board:
 
 ## 2. ****JTAGulator Kit****
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%2017.png)
+![Untitled](res/Untitled%2017.png)
 
 [JTAGulator](http://www.grandideastudio.com/portfolio/jtagulator/) is an open source hardware tool that assists in identifying On-chip debug (OCD) connections from test points, vias, or component pads on a target device.
 
@@ -307,7 +307,7 @@ Supporting Documentation:
 
 ## 3. ****Bus Pirate Kit****
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%2018.png)
+![Untitled](res/Untitled%2018.png)
 
 The [Bus Pirate](http://dangerousprototypes.com/docs/Bus_Pirate) is a universal electronic open hardware tool to program and interface with communication buses and program various chips, such as AVRs from Atmel and PICs from Microchip Technology. A primary usage case for this device as intended by the designers is to “Eliminate a ton of early prototyping effort with new or unknown chips.”Using a Bus Pirate, developers can use a serial terminal to interface with devices over a variety of hardware protocols, such as SPI and 1-Wire.
 
@@ -359,7 +359,7 @@ Reference Cards:
 
 ## 1. ****Digital Multimeter****
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%2019.png)
+![Untitled](res/Untitled%2019.png)
 
 This basic multimeter can test voltage, current, resistance among other functions. This is a low-cost multimeter, but still has a solid build quality designed to last for years.
 
@@ -382,7 +382,7 @@ Rs. 589
 
 ## 2. **KPH Hakko FX888D-23BY Digital Soldering Station**
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%2020.png)
+![Untitled](res/Untitled%2020.png)
 
 | Brand | KPH |
 | --- | --- |
@@ -397,7 +397,7 @@ Rs. 589
 
 ## 3. **Smiledrive Digital HD Microscope**
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%2021.png)
+![Untitled](res/Untitled%2021.png)
 
 Smiledrive Digital HD Microscope zooms in 50-1000x and observe many minute details of objects. It also comes with 4.3" LCD screen, built in 2600mAH rechargeable battery and 8 LED lights to control illumination. It can directly connect (via USB) with PC, also have a built-in MicroSD card slot (8GB)
 
@@ -421,7 +421,7 @@ Led: 8 Adjustable LED Lights
 
 ## 4. **Hantek DSO2C15 Digital Storage Oscilloscope**
 
-![Untitled](Hardware%20Lab%20f9e9e0e7c5724d42a822eb82d4291b59/Untitled%2022.png)
+![Untitled](res/Untitled%2022.png)
 
 1) 2 channels which are respectively controlled by independent knobs
 
