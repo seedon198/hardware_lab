@@ -355,6 +355,14 @@ Reference Cards:
 
 [Bus Pirate Kit - Hacker Warehouse](https://hackerwarehouse.com/product/bus-pirate/)
 
+## 4. ****Low Voltage eMMC Adapter****
+
+![Untitled](res/Untitled%2123.png)
+
+The Exploitee.rs Low Voltage eMMC Adapter was created by maximus64 and is intended to interface a low voltage e-MMC storage device with a typical SD/MMC Adapter. The adapter is based on the TI TXS02612 which performs logic level translation from an input of 1.1v to 3.6v to an output level of the attached device. The TI TXS02612 intended usage is to convert the logic level of a SDIO peripheral to an attached mobile Application Process. However, in our adapter, the use of this IC along with the SD Card form factor allows us to modify the input logic level of an attached e-MMC storage device to that of an MMC reader.
+
+$ 12.00
+
 # Lab Tools
 
 ## 1. ****Digital Multimeter****
