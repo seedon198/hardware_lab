@@ -543,29 +543,6 @@ Professional ($10K+)│ X-ray, electron microscopy, specialized test equipment
 └── Performance specifications and tolerances
 ```
 
-```bash
-> seedon@lab:~$ contact --professional
-```
-
-## � Contact & Professional Network
-
-�📧 **Professional Contact:** [LinkedIn](https://www.linkedin.com/in/seedon) • [Twitter/X](https://x.com/SeedonD)  
-
-� **Ideal For:**
-- Hardware security professionals and consultants
-- IoT security researchers and analysts  
-- Embedded systems security engineers
-- Physical penetration testers
-- Academic researchers in hardware security
-- Incident response teams handling IoT/hardware compromises
-
-🎯 **Key Applications:**
-- **Device Teardowns:** Complete hardware analysis workflows
-- **Firmware Extraction:** Multiple extraction techniques and tools
-- **Side-Channel Analysis:** Power analysis and fault injection capabilities  
-- **Protocol Analysis:** RF, serial, and bus protocol reverse engineering
-- **Physical Bypass:** Lock picking, RFID cloning, and access control testing
-
 ## 🏆 Lab Capabilities Matrix
 
 | Analysis Type | Basic Setup | Intermediate | Professional |
@@ -658,3 +635,26 @@ Smiledrive Digital HD Microscope zooms in 50-1000x and observe many minute detai
 **₹30,000**
 
 [Hantek DSO2C15 Digital Storage Oscilloscope](https://www.amazon.in/Hantek-DSO2C15-Digital-Oscilloscope-Bandwidth/dp/B08Y6M9TML/)
+
+```bash
+> seedon@lab:~$ contact --professional
+```
+
+## � Contact & Professional Network
+
+�📧 **Professional Contact:** [LinkedIn](https://www.linkedin.com/in/seedon) • [Twitter/X](https://x.com/SeedonD)  
+
+� **Ideal For:**
+- Hardware security professionals and consultants
+- IoT security researchers and analysts  
+- Embedded systems security engineers
+- Physical penetration testers
+- Academic researchers in hardware security
+- Incident response teams handling IoT/hardware compromises
+
+🎯 **Key Applications:**
+- **Device Teardowns:** Complete hardware analysis workflows
+- **Firmware Extraction:** Multiple extraction techniques and tools
+- **Side-Channel Analysis:** Power analysis and fault injection capabilities  
+- **Protocol Analysis:** RF, serial, and bus protocol reverse engineering
+- **Physical Bypass:** Lock picking, RFID cloning, and access control testing
